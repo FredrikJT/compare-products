@@ -1,0 +1,8 @@
+Name,Type,Quantity,Price ($),Failure rate (1/year),Description,Parent
+Helicopter,Product,1,,,Helio 2000,
+Big blade,Product Breakdown,5,"$1,200",0.02,A thing that rotates to keep the helicopter aloft,Helicopter
+Body,Product Breakdown,1,"$45,000",0.08,,Helicopter
+Windshield,Product Breakdown,1,"$9,000",1.2,Premium saphire crystal made by company X,Body
+Seat,Product Breakdown,2,$200,0.5,,Body
+Small blade,Product Breakdown,1,$700,0.005,A thing that rotates to stabilise the helicopter,Helicopter
+Standing feet,Product Breakdown,2,$150,0.1,Ensures the helicopter body doesn't touch ground when not flying around,Helicopter

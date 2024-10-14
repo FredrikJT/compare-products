@@ -1,0 +1,8 @@
+Name,Type,Quantity,Price ($),Failure rate (1/year),Description,Parent
+Helicopter,Product,1,,,Galaxy Blade,
+Big blade,Product Breakdown,6,"$1,300",0.015,,Helicopter
+Body,Product Breakdown,1,"$50,000",0.06,,Helicopter
+Windshield,Product Breakdown,1,"$5,500",1.5,Second class sapphire crystal made by unknown company,Body
+Seat,Product Breakdown,3,$250,0.4,,Body
+Small blade,Product Breakdown,1,$800,0.007,,Helicopter
+Standing feet,Product Breakdown,2,$700,0.09,Premium eco-friendly metal and locally sourced,Helicopter
